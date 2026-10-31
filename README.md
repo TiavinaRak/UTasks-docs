@@ -50,10 +50,8 @@ Application **full-stack** de gestion de tâches inspirée de Trello : tableaux,
 ## Mes tâches
 
 <!-- À ajuster : garde seulement ce que tu as réalisé toi-même -->
-- Développement de l'API Express (routes, modèles Mongoose, validation avec Joi).
-- Authentification JWT et middleware de protection des routes.
-- Vérification de propriété des ressources (tableau → liste → carte).
-- Interface Vue des tableaux et du glisser-déposer des cartes entre listes.
+- Implémentation du drag and drop des cartes de la liste
+- Interface des listes et cartes
 - Mise en place du chat temps réel avec Socket.IO.
 
 ## Ce que j'ai appris
@@ -67,4 +65,4 @@ Application **full-stack** de gestion de tâches inspirée de Trello : tableaux,
 
 ## Code source
 
-Le code source est hébergé dans un dépôt privé (projet universitaire, Université Laval). Il est disponible sur demande.
+Le code source est hébergé dans un dépôt privé (projet universitaire, Université Laval)
