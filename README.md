@@ -28,13 +28,16 @@ Application **full-stack** de gestion de tâches inspirée de Trello : tableaux,
 ### Connexion
 ![Connexion](images/UT-login.png)
 
-<!-- IMAGE : page « Mes boards » avec la liste des tableaux de l'utilisateur -->
+### Boards
+![boards](images/UT-boards.png)
 
-<!-- IMAGE : détail d'un tableau avec plusieurs listes et cartes (idéalement pendant un glisser-déposer) -->
+### Listes
+| listes | modal de modification d'une carte|
+|---|---|
+| ![listes](images/UT-listes.png) | ![cartes](images/UT-carteEdit.png) |
 
-<!-- IMAGE : fenêtre d'édition d'une carte (priorité, date d'échéance, description) -->
-
-<!-- IMAGE : page de chat avec quelques messages échangés -->
+### Chat temps réel
+![chat](images/UT-chat.png)
 
 ## API REST
 
